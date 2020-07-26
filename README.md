@@ -8,7 +8,7 @@
 
 >- 🌱 I’m currently studying to become FullStack on JavaScript.
 
-![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrublal&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
 
 >* Page: coming soon...
 
@@ -23,7 +23,7 @@
 
 - 🌱 Actualmente estudiando para ser FullStack en JavaScript.
 
-![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrublal&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
 
 >* Page: Proximamente...
 <!--
