@@ -8,10 +8,11 @@
 
 >- 🌱 I’m currently studying to become FullStack on JavaScript.
 
-![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
+![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&theme=radical)
 
 >* Page: coming soon...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrubla&layout=compact)](https://github.com/darrubla)
 
 
 ## Español
@@ -26,6 +27,9 @@
 ![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
 
 >* Page: Proximamente...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrubla&layout=compact)](https://github.com/darrubla)
 <!--
 **darrubla/darrubla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
