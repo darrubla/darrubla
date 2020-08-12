@@ -1,5 +1,4 @@
 ## English
->### Hello there ✋🏽
 >### ¡Hi! I am Daniel Eduardo Arrubla 
 
 >#### Junior Developer & Electronic Engineer
