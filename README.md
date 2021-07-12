@@ -1,11 +1,12 @@
 ## English
 >### ¡Hi! I am Daniel Eduardo Arrubla 
 
->#### Junior Developer & Electronic Engineer
+>#### Frontend Developer & Electronic Engineer
 
 >Frontend Developer using JavaScript technologies.
 
 >- 🌱 I’m currently studying to become FullStack on JavaScript.
+>- 🔭 I’m currently working as Frontend Developer.
 
 ![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&theme=tokyonight)
 
@@ -17,11 +18,12 @@
 ## Español
 >### ¡Hola! 👋🏽 Soy Daniel Eduardo Arrubla 
 
->#### Junior Developer e Ingeniero Electrónico
+>#### Desarrollador Frontend e Ingeniero Electrónico
 
 >Desarrollador frontend con tecnologías JavaScript.
 
 - 🌱 Actualmente estudiando para ser FullStack en JavaScript.
+- 🔭 Trabajando como Desarrollador Frontend.
 
 ![Github Stats de Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&theme=tokyonight)
 
