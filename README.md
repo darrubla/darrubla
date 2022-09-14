@@ -10,8 +10,6 @@
 
 ![Github Stats for Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&theme=tokyonight)
 
->* Page: coming soon...
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrubla&layout=compact)](https://github.com/darrubla)
 
 
@@ -26,8 +24,6 @@
 - 🔭 Trabajando como Desarrollador Frontend.
 
 ![Github Stats de Daniel Arrubla](https://github-readme-stats.vercel.app/api?username=darrubla&show_icons=true&hide_border=true&theme=tokyonight)
-
->* Page: Proximamente...
 
 
 [![Top de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=darrubla&layout=compact)](https://github.com/darrubla)
