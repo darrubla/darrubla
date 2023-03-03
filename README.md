@@ -1,35 +1,28 @@
-## English
->### ¡Hi! I am Daniel Eduardo Arrubla 
-
->#### Frontend Developer & Electronic Engineer
-
->Frontend Developer using JavaScript technologies.
-
->- 🌱 I’m currently studying to become FullStack on JavaScript.
->- 🔭 I’m currently working as Frontend Developer.
+<h1 align="center">Hi, I'm <strong>Daniel Arrubla</strong></h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
 
-## Español
->### ¡Hola! 👋🏽 Soy Daniel Eduardo Arrubla 
+```js
+import SoftwareEngineer from 'danielArrubla'
+class Bio extends SoftwareEngineer {
+  name     = 'Daniel Arrubla';
+  title    = 'Software Engineer';
+}
+class Skills extends SoftwareEngineer {
+  languages  = ['JavaScript', 'TypesCript', 'liquid'];
+  databases  = ['MySQL', 'Firebase'];
+  frameworks = ['React', 'Laravel', 'Next'];
+  others = ['Shopify', 'SASS', 'SEO'];
+}
+```
 
->#### Desarrollador Frontend e Ingeniero Electrónico
+<p align="center">
+  <a href="https://github.com/darrubla"><img src="https://github-readme-stats.vercel.app/api?username=darrubla&hide_border=true&show_icons=true&count_private=true&theme=gotham&hide=issues,contribs" alt="darrubla's github stats"></a>
+</p>
 
->Desarrollador frontend con tecnologías JavaScript.
+<p align="center">
+  <strong><a href="https://darrubla.github.io/blog_design/">Website</a></strong> |
+  <strong><a href="https://linkedin.com/in/darrubla">LinkedIn</a></strong>
+</p>
 
-- 🌱 Actualmente estudiando para ser FullStack en JavaScript.
-- 🔭 Trabajando como Desarrollador Frontend.
-
-<!--
-**darrubla/darrubla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm currently working on Software Development.</p>
